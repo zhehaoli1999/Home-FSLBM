@@ -1,5 +1,6 @@
 # Kinetic Free-Surface Flows and Foams with Sharp Interfaces
 
+[[**Project Page**](https://haoxiang-wang.com/homefree/)] [[**Paper**](https://haoxiang-wang.com/homefree/static/pdfs/WWQD25.pdf)] [[**Video**](https://www.youtube.com/watch?v=tQE1iaPCwjA)]
 ## Project Overview
 
 This is the code release for "Kinetic Free-Surface Flows and Foams with Sharp Interfaces".
@@ -65,3 +66,18 @@ make -j$(nproc)
 ## License
 
 This project is licensed under the GNU General Public License. See the LICENSE file for details.
+
+
+## Citation
+
+If you find our work useful, please consider citing:
+
+```bibtex
+@article{wangkinetic2025,
+  title={Kinetic Free-Surface Flows and Foams with Sharp Interfaces},
+  author={Haoxiang Wang, Kui Wu, Hui Qiao, Mattieu Desbrun, Wei Li
+    },
+  journal={ACM Transactions on Graphics},
+  year={2025},
+  url={https://haoxiang-wang.com/homefree/}
+}
